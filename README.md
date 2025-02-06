@@ -1,4 +1,4 @@
-# Summary of Extracting Credentials Using Meterpreter and Mimikatz
+# Extracting Credentials Using Meterpreter and Mimikatz
 
  ### [YouTube Demonstration](https://youtu.be/Je-QIsPMlzk)
  
